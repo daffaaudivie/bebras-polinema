@@ -59,6 +59,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </tbody>
         </table>
     </div>
+	<div class="button">
+    <img src="<?php echo base_url('assets/images/beaver.jpg'); ?>" alt="Beaver" class="beaver-img">
+    <img src="<?php echo base_url('assets/images/waktu.png'); ?>" alt="Waktu" class="waktu-img">
+	</div>
+
 </div>
 
 </body>
